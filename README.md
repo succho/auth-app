@@ -1,1 +1,1 @@
-# self-study
+# auth-app
