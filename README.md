@@ -1,4 +1,4 @@
-# test
+# auth-app
 
 ## Project setup
 ```
